@@ -1,0 +1,17 @@
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\bin\Debug\veritabani.exe.config
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\bin\Debug\veritabani.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\bin\Debug\veritabani.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.csproj.AssemblyReference.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.Form1.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.Properties.Resources.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.csproj.GenerateResource.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.csproj.CoreCompileInputs.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.login.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.sifredegistir.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.uyeler.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.UYELER2.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.işlemlerUye.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.işlemlerYönetici.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\veritabani\veritabani\obj\Debug\veritabani.yoneticiinnerjoın.resources
